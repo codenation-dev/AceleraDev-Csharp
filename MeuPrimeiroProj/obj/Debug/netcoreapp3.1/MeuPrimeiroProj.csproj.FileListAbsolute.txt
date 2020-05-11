@@ -1,0 +1,13 @@
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\MeuPrimeiroProj\bin\Debug\netcoreapp3.1\MeuPrimeiroProj.exe
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\MeuPrimeiroProj\bin\Debug\netcoreapp3.1\MeuPrimeiroProj.deps.json
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\MeuPrimeiroProj\bin\Debug\netcoreapp3.1\MeuPrimeiroProj.runtimeconfig.json
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\MeuPrimeiroProj\bin\Debug\netcoreapp3.1\MeuPrimeiroProj.runtimeconfig.dev.json
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\MeuPrimeiroProj\bin\Debug\netcoreapp3.1\MeuPrimeiroProj.dll
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\MeuPrimeiroProj\bin\Debug\netcoreapp3.1\MeuPrimeiroProj.pdb
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\MeuPrimeiroProj\obj\Debug\netcoreapp3.1\MeuPrimeiroProj.csprojAssemblyReference.cache
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\MeuPrimeiroProj\obj\Debug\netcoreapp3.1\MeuPrimeiroProj.csproj.CoreCompileInputs.cache
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\MeuPrimeiroProj\obj\Debug\netcoreapp3.1\MeuPrimeiroProj.AssemblyInfoInputs.cache
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\MeuPrimeiroProj\obj\Debug\netcoreapp3.1\MeuPrimeiroProj.AssemblyInfo.cs
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\MeuPrimeiroProj\obj\Debug\netcoreapp3.1\MeuPrimeiroProj.dll
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\MeuPrimeiroProj\obj\Debug\netcoreapp3.1\MeuPrimeiroProj.pdb
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\MeuPrimeiroProj\obj\Debug\netcoreapp3.1\MeuPrimeiroProj.genruntimeconfig.cache

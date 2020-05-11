@@ -1,0 +1,13 @@
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\CondicionaisELoops\bin\Debug\netcoreapp3.1\CondicionaisELoops.exe
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\CondicionaisELoops\bin\Debug\netcoreapp3.1\CondicionaisELoops.deps.json
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\CondicionaisELoops\bin\Debug\netcoreapp3.1\CondicionaisELoops.runtimeconfig.json
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\CondicionaisELoops\bin\Debug\netcoreapp3.1\CondicionaisELoops.runtimeconfig.dev.json
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\CondicionaisELoops\bin\Debug\netcoreapp3.1\CondicionaisELoops.dll
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\CondicionaisELoops\bin\Debug\netcoreapp3.1\CondicionaisELoops.pdb
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\CondicionaisELoops\obj\Debug\netcoreapp3.1\CondicionaisELoops.csprojAssemblyReference.cache
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\CondicionaisELoops\obj\Debug\netcoreapp3.1\CondicionaisELoops.csproj.CoreCompileInputs.cache
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\CondicionaisELoops\obj\Debug\netcoreapp3.1\CondicionaisELoops.AssemblyInfoInputs.cache
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\CondicionaisELoops\obj\Debug\netcoreapp3.1\CondicionaisELoops.AssemblyInfo.cs
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\CondicionaisELoops\obj\Debug\netcoreapp3.1\CondicionaisELoops.dll
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\CondicionaisELoops\obj\Debug\netcoreapp3.1\CondicionaisELoops.pdb
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\CondicionaisELoops\obj\Debug\netcoreapp3.1\CondicionaisELoops.genruntimeconfig.cache
