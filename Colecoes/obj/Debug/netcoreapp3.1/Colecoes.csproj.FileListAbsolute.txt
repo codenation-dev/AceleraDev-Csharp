@@ -1,0 +1,13 @@
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\Colecoes\bin\Debug\netcoreapp3.1\Colecoes.exe
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\Colecoes\bin\Debug\netcoreapp3.1\Colecoes.deps.json
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\Colecoes\bin\Debug\netcoreapp3.1\Colecoes.runtimeconfig.json
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\Colecoes\bin\Debug\netcoreapp3.1\Colecoes.runtimeconfig.dev.json
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\Colecoes\bin\Debug\netcoreapp3.1\Colecoes.dll
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\Colecoes\bin\Debug\netcoreapp3.1\Colecoes.pdb
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\Colecoes\obj\Debug\netcoreapp3.1\Colecoes.csprojAssemblyReference.cache
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\Colecoes\obj\Debug\netcoreapp3.1\Colecoes.csproj.CoreCompileInputs.cache
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\Colecoes\obj\Debug\netcoreapp3.1\Colecoes.AssemblyInfoInputs.cache
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\Colecoes\obj\Debug\netcoreapp3.1\Colecoes.AssemblyInfo.cs
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\Colecoes\obj\Debug\netcoreapp3.1\Colecoes.dll
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\Colecoes\obj\Debug\netcoreapp3.1\Colecoes.pdb
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\Colecoes\obj\Debug\netcoreapp3.1\Colecoes.genruntimeconfig.cache

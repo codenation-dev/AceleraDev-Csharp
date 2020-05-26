@@ -1,0 +1,13 @@
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\ModificadorAcesso\bin\Debug\netcoreapp3.1\ModificadorAcesso.exe
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\ModificadorAcesso\bin\Debug\netcoreapp3.1\ModificadorAcesso.deps.json
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\ModificadorAcesso\bin\Debug\netcoreapp3.1\ModificadorAcesso.runtimeconfig.json
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\ModificadorAcesso\bin\Debug\netcoreapp3.1\ModificadorAcesso.runtimeconfig.dev.json
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\ModificadorAcesso\bin\Debug\netcoreapp3.1\ModificadorAcesso.dll
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\ModificadorAcesso\bin\Debug\netcoreapp3.1\ModificadorAcesso.pdb
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\ModificadorAcesso\obj\Debug\netcoreapp3.1\ModificadorAcesso.csprojAssemblyReference.cache
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\ModificadorAcesso\obj\Debug\netcoreapp3.1\ModificadorAcesso.csproj.CoreCompileInputs.cache
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\ModificadorAcesso\obj\Debug\netcoreapp3.1\ModificadorAcesso.AssemblyInfoInputs.cache
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\ModificadorAcesso\obj\Debug\netcoreapp3.1\ModificadorAcesso.AssemblyInfo.cs
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\ModificadorAcesso\obj\Debug\netcoreapp3.1\ModificadorAcesso.dll
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\ModificadorAcesso\obj\Debug\netcoreapp3.1\ModificadorAcesso.pdb
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\ModificadorAcesso\obj\Debug\netcoreapp3.1\ModificadorAcesso.genruntimeconfig.cache

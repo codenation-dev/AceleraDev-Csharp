@@ -1,0 +1,13 @@
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\LinqLambda\bin\Debug\netcoreapp3.1\LinqLambda.exe
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\LinqLambda\bin\Debug\netcoreapp3.1\LinqLambda.deps.json
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\LinqLambda\bin\Debug\netcoreapp3.1\LinqLambda.runtimeconfig.json
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\LinqLambda\bin\Debug\netcoreapp3.1\LinqLambda.runtimeconfig.dev.json
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\LinqLambda\bin\Debug\netcoreapp3.1\LinqLambda.dll
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\LinqLambda\bin\Debug\netcoreapp3.1\LinqLambda.pdb
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\LinqLambda\obj\Debug\netcoreapp3.1\LinqLambda.csprojAssemblyReference.cache
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\LinqLambda\obj\Debug\netcoreapp3.1\LinqLambda.csproj.CoreCompileInputs.cache
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\LinqLambda\obj\Debug\netcoreapp3.1\LinqLambda.AssemblyInfoInputs.cache
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\LinqLambda\obj\Debug\netcoreapp3.1\LinqLambda.AssemblyInfo.cs
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\LinqLambda\obj\Debug\netcoreapp3.1\LinqLambda.dll
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\LinqLambda\obj\Debug\netcoreapp3.1\LinqLambda.pdb
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\LinqLambda\obj\Debug\netcoreapp3.1\LinqLambda.genruntimeconfig.cache

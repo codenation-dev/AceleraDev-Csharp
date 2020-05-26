@@ -1,0 +1,13 @@
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\Generics\bin\Debug\netcoreapp3.1\Generics.exe
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\Generics\bin\Debug\netcoreapp3.1\Generics.deps.json
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\Generics\bin\Debug\netcoreapp3.1\Generics.runtimeconfig.json
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\Generics\bin\Debug\netcoreapp3.1\Generics.runtimeconfig.dev.json
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\Generics\bin\Debug\netcoreapp3.1\Generics.dll
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\Generics\bin\Debug\netcoreapp3.1\Generics.pdb
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\Generics\obj\Debug\netcoreapp3.1\Generics.csprojAssemblyReference.cache
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\Generics\obj\Debug\netcoreapp3.1\Generics.csproj.CoreCompileInputs.cache
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyInfoInputs.cache
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyInfo.cs
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\Generics\obj\Debug\netcoreapp3.1\Generics.dll
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\Generics\obj\Debug\netcoreapp3.1\Generics.pdb
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\Generics\obj\Debug\netcoreapp3.1\Generics.genruntimeconfig.cache

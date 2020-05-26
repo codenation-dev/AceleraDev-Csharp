@@ -1,0 +1,17 @@
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\Heranca\bin\Debug\netcoreapp3.1\Heranca.exe
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\Heranca\bin\Debug\netcoreapp3.1\Heranca.deps.json
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\Heranca\bin\Debug\netcoreapp3.1\Heranca.runtimeconfig.json
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\Heranca\bin\Debug\netcoreapp3.1\Heranca.runtimeconfig.dev.json
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\Heranca\bin\Debug\netcoreapp3.1\Heranca.dll
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\Heranca\bin\Debug\netcoreapp3.1\Heranca.pdb
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\Heranca\obj\Debug\netcoreapp3.1\Heranca.csproj.CoreCompileInputs.cache
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\Heranca\obj\Debug\netcoreapp3.1\Heranca.AssemblyInfoInputs.cache
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\Heranca\obj\Debug\netcoreapp3.1\Heranca.AssemblyInfo.cs
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\Heranca\obj\Debug\netcoreapp3.1\Heranca.dll
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\Heranca\obj\Debug\netcoreapp3.1\Heranca.pdb
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\Heranca\obj\Debug\netcoreapp3.1\Heranca.genruntimeconfig.cache
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\Heranca\bin\Debug\netcoreapp3.1\ModificadorAcesso.exe
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\Heranca\bin\Debug\netcoreapp3.1\ModificadorAcesso.dll
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\Heranca\bin\Debug\netcoreapp3.1\ModificadorAcesso.pdb
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\Heranca\obj\Debug\netcoreapp3.1\Heranca.csprojAssemblyReference.cache
+C:\Users\thami\Source\Repos\MeuPrimeiroProj\Heranca\obj\Debug\netcoreapp3.1\Heranca.csproj.CopyComplete
