@@ -1,0 +1,198 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\thami\\Source\\Repos\\MeuPrimeiroProj\\MeuPrimeiroTeste-xUnit\\MeuPrimeiroTeste-xUnit.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\thami\\Source\\Repos\\MeuPrimeiroProj\\ClasseObjeto\\ClasseObjeto.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\thami\\Source\\Repos\\MeuPrimeiroProj\\ClasseObjeto\\ClasseObjeto.csproj",
+        "projectName": "ClasseObjeto",
+        "projectPath": "C:\\Users\\thami\\Source\\Repos\\MeuPrimeiroProj\\ClasseObjeto\\ClasseObjeto.csproj",
+        "packagesPath": "C:\\Users\\thami\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\thami\\Source\\Repos\\MeuPrimeiroProj\\ClasseObjeto\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\thami\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\thami\\Source\\Repos\\MeuPrimeiroProj\\Generics\\Generics.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\thami\\Source\\Repos\\MeuPrimeiroProj\\Generics\\Generics.csproj",
+        "projectName": "Generics",
+        "projectPath": "C:\\Users\\thami\\Source\\Repos\\MeuPrimeiroProj\\Generics\\Generics.csproj",
+        "packagesPath": "C:\\Users\\thami\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\thami\\Source\\Repos\\MeuPrimeiroProj\\Generics\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\thami\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\thami\\Source\\Repos\\MeuPrimeiroProj\\MeuPrimeiroTeste-xUnit\\MeuPrimeiroTeste-xUnit.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\thami\\Source\\Repos\\MeuPrimeiroProj\\MeuPrimeiroTeste-xUnit\\MeuPrimeiroTeste-xUnit.csproj",
+        "projectName": "MeuPrimeiroTeste-xUnit",
+        "projectPath": "C:\\Users\\thami\\Source\\Repos\\MeuPrimeiroProj\\MeuPrimeiroTeste-xUnit\\MeuPrimeiroTeste-xUnit.csproj",
+        "packagesPath": "C:\\Users\\thami\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\thami\\Source\\Repos\\MeuPrimeiroProj\\MeuPrimeiroTeste-xUnit\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\thami\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\thami\\Source\\Repos\\MeuPrimeiroProj\\ClasseObjeto\\ClasseObjeto.csproj": {
+                "projectPath": "C:\\Users\\thami\\Source\\Repos\\MeuPrimeiroProj\\ClasseObjeto\\ClasseObjeto.csproj"
+              },
+              "C:\\Users\\thami\\Source\\Repos\\MeuPrimeiroProj\\Generics\\Generics.csproj": {
+                "projectPath": "C:\\Users\\thami\\Source\\Repos\\MeuPrimeiroProj\\Generics\\Generics.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

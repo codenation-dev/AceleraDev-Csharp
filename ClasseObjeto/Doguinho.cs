@@ -19,7 +19,7 @@ namespace ClasseObjeto
 
         public string Latir()
         {
-            return "Au au au";
+            return "Au au au ...";
         }
 
         public void Passear(bool estaChovendo)
